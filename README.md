@@ -36,3 +36,7 @@ activated.
 
 [Alfred]: http://www.alfredapp.com/
 [Alfred Powerpack]: http://www.alfredapp.com/powerpack/
+
+## Change History
+
+* 2012.07.07 Created.
