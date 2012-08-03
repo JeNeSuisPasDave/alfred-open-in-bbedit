@@ -23,9 +23,10 @@ is not installed, no error is reported.)
 
 ## Installation
 
-Download this repository and drag the file `Open in BBEdit.alfredextension` to
-the "Drop to install" target in Alfred's "Extensions" preference pane. If you
-don't like the default keyword "obb", then change it.
+Download
+[Open in BBEdit.alfredextension](https://github.com/downloads/JeNeSuisPasDave/alfred-open-in-bbedit/Open%20in%20BBEdit.alfredextension)
+and drag the file to the "Drop to install" target in Alfred's "Extensions"
+preference pane. If you don't like the default keyword "obb", then change it.
 
 ## Notes
 
